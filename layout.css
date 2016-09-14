@@ -1,0 +1,27 @@
+	body {
+    	background-image: url(http://truancyfactory.com/mods/skyrim/images/wallpaper/starryNight.jpg); 
+ }
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: arial;
+    font-size: 25px; }
+
+ p { color: white;
+ 	font-size:15px;
+	font-family: Arial}
+
+
+h2 {color: white;
+	font-family: arial;
+	font-size: 20px;
+}
+
+IMG.lol {float: right;
+		height: 120px ;
+		width: auto; 
+}
+
+IMG.omg {float: right;
+width: 250px }
